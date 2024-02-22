@@ -73,6 +73,7 @@ typings/
 .serverless
 
 dist
+.idea
 
 uploads/*
 !uploads/.gitkeep
